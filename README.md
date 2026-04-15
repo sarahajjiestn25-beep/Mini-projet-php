@@ -43,7 +43,7 @@ gestion-etudiants/
 2. Importer le fichier ecole.sql dans phpMyAdmin
 3. Configurer connexion.php (user, password)
 4. Mettre le projet dans htdocs (XAMPP)
-5. Ouvrir dans le navigateur : http://localhost/gestion-etudiants
+5. Ouvrir dans le navigateur : http://localhost/gestion-etudiants/index.php
 
 ## Fonctionnalités
 
